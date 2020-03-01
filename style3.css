@@ -1,11 +1,3 @@
-/*
-html5doctor.com Reset Stylesheet
-v1.6.1
-Last Updated: 2010-09-17
-Author: Richard Clark - http://richclarkdesign.com
-Twitter: @rich_clark
-*/
-
 html, body, div, span, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 abbr, address, cite, code,
@@ -99,62 +91,3 @@ hr {
 
 input, select {
     vertical-align:middle;
-}
-
-h1{
-font-family: Arial;
-font-style: bold;
-font-weight: 900;
-background-color:blue;
-font-size: 70px;
-margin: 0px;
-text-align: center;
-text-transform: capitalize;
-letter-spacing: 10px;
-word-spacing: 15px;
-color: RGBA(128, 128, 128, 0.9);
-background-color: (0, 0, 255);
-line-height: 100px;
-}
-
-.Name {
-	font-family: 'Sriracha', cursive;
-	color: #f55a42;
-	text-align: center;
-	margin: 100px;
-}
-
-/* the top two are the same section */
-
-h2{
-color: #7e22df;
-font-family: 'Roboto', sans-serif;
-font-style: bold;
-font-size: 25px;
-font-weight: 700;
-margin: 70px;
-text-align: center;
-text-transform: capitalize;
-text-decoration: none;
-line-height: 40px;
-}
-
-a:link{
-	color: #4254f5;
-}
-
-a:visited; {
-	text-align: center;
-}
-
-a:hover{
-	color: green; 
-}
-
-.index-intro p {
-	color: blue;
-}
-
-#index-h2 p {
-	color: yellow;
-}
